@@ -17,6 +17,6 @@ This project is a personal portfolio website created using HTML, CSS, and JavaSc
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/Sappymukherjee214/CODSOFT_02.git
